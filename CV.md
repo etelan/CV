@@ -21,6 +21,16 @@ London, United Kingdom
 - Reported and fixed production bugs on Google's internal platform which affected end-users around the world.
 - Created training material for coworkers, particularly around testing procedures and strategies.
 - As a community contribution, I negotiated and scheduled keynote speakers at TransConf 2021, an event for one of the employee resource groups at Google. This included one of our prominent YouTube creators with a 1M+ following.
+- 
+### Makers Academy Coding Bootcamp - Septeber 2020 - December 2020
+
+London, United Kingdom
+
+- Completed a 12 week coding bootcamp
+- Did peer programming, group projects and test driven development
+- Created an API using NodeJS
+- Made a game entirely written in Javascript and HTML in a group
+- Got taught how to learn a new programming language quickly (Ruby)
 
 ### The Melbourn Community Hub App: July 2019 - March 2020
 
