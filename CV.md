@@ -26,11 +26,11 @@ London, United Kingdom
 
 London, United Kingdom
 
-- Completed a 12 week coding bootcamp
-- Did peer programming, group projects and test driven development
-- Created an API using NodeJS
-- Made a game entirely written in Javascript and HTML in a group
-- Got taught how to learn a new programming language quickly (Ruby)
+- Completed a 12 week coding bootcamp.
+- Did peer programming, group projects and test driven development.
+- Created an API using NodeJS.
+- Made a game entirely written in Javascript and HTML in a group.
+- Got taught how to learn a new programming language quickly (Ruby).
 
 ### The Melbourn Community Hub App: July 2019 - March 2020
 
