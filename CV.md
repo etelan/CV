@@ -4,7 +4,7 @@ alexisbakercodes@gmail.com | 07548809449 | 688 Newmarket Road, Cambridge, Cambri
 
 [https://alexisbaker.uk/](https://alexisbaker.uk/)
 
-I am currently in a Software Engineering Degree Apprenticeship at Google, in partnership with the external training provider Makers Academy. In my core role, I work on the Google Fit Android App, which connects Google Wear wearables with user's smartphones. My work leans more toward the backend services that support Google Wear. This includes database work, writing SQL queries, and implementation of timezone functionality. I also undertake some work on UI updates, accessibility improvements, and bug fixes.
+I am currently in a Software Engineering Degree Apprenticeship at Google, in partnership with the external training provider Makers Academy. In my core role, I work on the Google Fit Android App, which connects Google Wear wearables with users' smartphones. My work leans more toward the backend services that support Google Wear. This includes database work, writing SQL queries, and implementation of timezone functionality. I also undertake some work on UI updates, accessibility improvements, and bug fixes.
 
 In my spare time, I like to create computer games to make people happy. This has branched out into mini coding projects. My latest projects have included creating a [discord bot to query a Minecraft server](https://github.com/etelan/MinecraftServerQueryDiscordBot), and a [Minecraft/Trainline Website using the Springboot API](https://alexisbaker.uk/TrainBlock-Site/). Prior to beginning my apprenticeship at Google, I created an app for a local cafe using Gamemaker Studio, programming it in Game Maker Language.
 
@@ -22,7 +22,7 @@ London, United Kingdom
 - Created training material for coworkers, particularly around testing procedures and strategies.
 - As a community contribution, I negotiated and scheduled keynote speakers at TransConf 2021, an event for one of the employee resource groups at Google. This included one of our prominent YouTube creators with a 1M+ following.
 
-### Makers Academy Coding Bootcamp - Septeber 2020 - December 2020
+### Makers Academy Coding Bootcamp - September 2020 - December 2020
 
 London, United Kingdom
 
