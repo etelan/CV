@@ -16,7 +16,7 @@ London, United Kingdom
 
 - Improving accessibility and the UI
 - Fixing backend bugs
-- Worked on backend database features. Improved my skills with SQL, timezones, and Java.
+- Worked on backend database features. Using SQL, timezones, and Java.
 - Bug fixed on the Google Fit App for Android and Android Wear. This included a project to integrate to new libraries.
 - Reported and fixed production bugs on Google's internal platform which affected end-users around the world.
 - Created training material for coworkers, particularly around testing procedures and strategies.
