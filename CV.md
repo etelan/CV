@@ -8,6 +8,14 @@ I am currently in a Software Engineering Degree Apprenticeship at Google, in par
 
 In my spare time, I like to create computer games to make people happy. This has branched out into mini coding projects. My latest projects have included creating a [discord bot to query a Minecraft server](https://github.com/etelan/MinecraftServerQueryDiscordBot), and a [Minecraft/Trainline Website using the Springboot API](https://alexisbaker.uk/TrainBlock-Site/). Prior to beginning my apprenticeship at Google, I created an app for a local cafe using Gamemaker Studio, programming it in Game Maker Language.
 
+## Skills / Languages 
+- Java | Advanced
+- Python | Intermediate
+- Ruby | Intermediate
+- GitHub / Git | Intermediate
+- C++ | Basic
+- Linux / Bash | Basic
+
 ## Experience
 
 ### Software Engineering Apprentice - Google UK: September 2020 to present
