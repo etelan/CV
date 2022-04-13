@@ -14,7 +14,7 @@ In my spare time, I like to create computer games to make people happy. This has
 
 London, United Kingdom
 
-- Improving accessibility and the UI
+- Fixed user visible bugs and accessibility issues in an app with over 100M installs
 - Fixing backend bugs
 - Worked on backend database features. Using SQL, timezones, and Java.
 - Bug fixed on the Google Fit App for Android and Android Wear. This included a project to integrate to new libraries.
