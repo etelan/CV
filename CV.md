@@ -104,7 +104,7 @@ Responsibilities:
 - Worked in kitchen doing various roles
 - Became part of a small team
 
-## Skills / Languages 
+## Skills
 - British Sign Language | Certified
 - Communication
 - Organization
