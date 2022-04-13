@@ -106,7 +106,7 @@ IT: Distinction Star
 Media: Distinction Star
 
 ### GCSE
-Got 10 GCSEs, including level 7, 8 and 8 for Computer Science, Mathematics and Physics.
+Achieved 10 GCSEs, including level 7, 8 and 8 for Computer Science, Mathematics and Physics.
 
 ## Personal Interests
 
