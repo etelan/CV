@@ -20,7 +20,7 @@ London, United Kingdom
 - Bug fixed on the Google Fit App for Android and Android Wear. This included a project to integrate to new libraries.
 - Reported and fixed production bugs on Google's internal platform which affected end-users around the world.
 - Created training material for coworkers, particularly around testing procedures and strategies.
-- As a community contribution, I negotiated and scheduled keynote speakers at TransConf 2021, an event for one of the employee resource groups at Google. This included one of our prominent YouTube creators with a 1M+ following.
+- I negotiated and scheduled keynote speakers at TransConf 2021, an event for one of the employee resource groups at Google. This included one of our prominent YouTube creators with a 1M+ following.
 
 ### Makers Academy Coding Bootcamp - September 2020 - December 2020
 
