@@ -15,6 +15,7 @@ In my spare time, I like to create computer games to make people happy. This has
 - GitHub / Git | Intermediate
 - C++ | Basic
 - Linux / Bash | Basic
+- British Sign Language | Certified
 
 ## Experience
 
