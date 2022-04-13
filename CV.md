@@ -43,8 +43,6 @@ The Hub Android App - GML for Mobile Development
 
 This was an HM Government online extracurricular programme - [https://www.joincyberdiscovery.com/](https://www.joincyberdiscovery.com/)
 
-My achievements:
-
 - Fixed Python code and developed practical Python skills
 - Learnt basic Linux terminal usage, basic cURL
 - Developed skills and knowledge around cryptography: encoding, encryption, steganography, hashes, etc
@@ -79,18 +77,6 @@ Responsibilities:
 - Volunteered for parkrun; Responsibilities included timekeeping, placing route markers, and scanning runners barcodes
 - Developed a Wordpress blog to document my experience ([http://dofe.adambaker.info/](http://dofe.adambaker.info/))
 
-### Volunteering for The Hub: March 2016 - September 2017
-
-The Melbourn Community Hub - [https://melbournhub.co.uk/](https://melbournhub.co.uk/)
-
-Melbourn, Royston, Hertfordshire
-
-Responsibilities:
-
-- Served customers and dealt with customer queries
-- Worked in kitchen doing various roles
-- Became part of a small team
-
 ## Skills
 - British Sign Language | Certified
 - Communication
@@ -119,29 +105,8 @@ IT: Distinction Star
 
 Media: Distinction Star
 
-### GCSEs
-
-Melbourn Village College, Melbourn, Royston
-
-Computer Science: 7
-
-Maths: 8
-
-Physics: 8
-
-English Literature: 5
-
-English Language: 4
-
-Biology: 6
-
-Chemistry: 6
-
-Psychology: B
-
-Spanish: 5
-
-Media Studies: C
+### GCSE
+Got 10 GCSEs, including level 7, 8 and 8 for Computer Science, Mathematics and Physics.
 
 ## Personal Interests
 
