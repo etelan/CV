@@ -43,11 +43,11 @@ The Hub Android App - GML for Mobile Development
 
 This was an HM Government online extracurricular programme - [https://www.joincyberdiscovery.com/](https://www.joincyberdiscovery.com/)
 
-- Fixed Python code and developed practical Python skills
-- Learnt basic Linux terminal usage, basic cURL
-- Developed skills and knowledge around cryptography: encoding, encryption, steganography, hashes, etc
-- Learnt about SQL injections, cookies, command injection
-- Used browser developer functionality to edit HTML to complete certain challenges
+- Fixed Python code and developed practical Python skills.
+- Learnt basic Linux terminal usage, basic cURL.
+- Developed skills and knowledge around cryptography: encoding, encryption, steganography, hashes, etc.
+- Learnt about SQL injections, cookies, command injection.
+- Used browser developer functionality to edit HTML to complete certain challenges.
 
 ### Cleaning Manager: November 2017 - March 2020 (Part time job)
 
@@ -57,12 +57,12 @@ Melbourn, Royston, Hertfordshire
 
 Responsibilities:
 
-- Consistently cleaning The Hub to a high standard
-- Gained responsibility as cleaning manager in June 2019
-- Managing team rota
-- Handling absences and other unforeseen circumstances
-- Ordering and stock maintenance for equipment and consumables
-- Developed time management, organisational, and people management skills
+- Consistently cleaning The Hub to a high standard.
+- Gained responsibility as cleaning manager in June 2019.
+- Managing team rota.
+- Handling absences and other unforeseen circumstances.
+- Ordering and stock maintenance for equipment and consumables.
+- Developed time management, organisational, and people management skills.
 
 ### Bronze Duke Of Edinburgh’s Award: March 2016 - September 2017
 
@@ -72,10 +72,10 @@ Royston, Hertfordshire
 
 Responsibilities:
 
-- Lead the team when required on the exhibition
+- Lead the team when required on the exhibition.
 - Corrected route mistakes which we made on our walk by adapting the routine accordingly.
-- Volunteered for parkrun; Responsibilities included timekeeping, placing route markers, and scanning runners barcodes
-- Developed a Wordpress blog to document my experience ([http://dofe.adambaker.info/](http://dofe.adambaker.info/))
+- Volunteered for parkrun; Responsibilities included timekeeping, placing route markers, and scanning runners barcodes.
+- Developed a Wordpress blog to document my experience ([http://dofe.adambaker.info/](http://dofe.adambaker.info/)).
 
 ## Skills
 - British Sign Language | Certified
@@ -110,10 +110,10 @@ Achieved 10 GCSEs, including level 7, 8 and 8 for Computer Science, Mathematics 
 
 ## Personal Interests
 
-- Playing Dungeons and Dragons as the Dungeon Master and as a player
-- Programming games for Game Jams
-- Playing VR games and animations using Oculus Rift/Quest
-- Meeting up with friends to play boardgames including “One Night Ultimate Werewolf”, “Settlers of Catan” and “Betrayal at House on the Hill”
+- Playing Dungeons and Dragons as the Dungeon Master and as a player.
+- Programming games for Game Jams.
+- Playing VR games and animations using Oculus Rift/Quest.
+- Meeting up with friends to play boardgames including “One Night Ultimate Werewolf”, “Settlers of Catan” and “Betrayal at House on the Hill”.
 - Swimming and Cycling.
 
 References are available upon request.
