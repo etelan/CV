@@ -8,14 +8,13 @@ I am currently in a Software Engineering Degree Apprenticeship at Google, in par
 
 In my spare time, I like to create computer games to make people happy. This has branched out into mini coding projects. My latest projects have included creating a [discord bot to query a Minecraft server](https://github.com/etelan/MinecraftServerQueryDiscordBot), and a [Minecraft/Trainline Website using the Springboot API](https://alexisbaker.uk/TrainBlock-Site/). Prior to beginning my apprenticeship at Google, I created an app for a local cafe using Gamemaker Studio, programming it in Game Maker Language.
 
-## Skills / Languages 
+## Languages
 - Java | Advanced
 - Python | Intermediate
 - Ruby | Intermediate
-- GitHub / Git | Intermediate
 - C++ | Basic
+- GitHub / Git | Intermediate
 - Linux / Bash | Basic
-- British Sign Language | Certified
 
 ## Experience
 
@@ -30,16 +29,6 @@ London, United Kingdom
 - Reported and fixed production bugs on Google's internal platform which affected end-users around the world.
 - Created training material for coworkers, particularly around testing procedures and strategies.
 - I negotiated and scheduled keynote speakers at TransConf 2021, an event for one of the employee resource groups at Google. This included one of our prominent YouTube creators with a 1M+ following.
-
-### Makers Academy Coding Bootcamp - September 2020 - December 2020
-
-London, United Kingdom
-
-- Completed a 12 week coding bootcamp.
-- Did peer programming, group projects and test driven development.
-- Created an API using NodeJS.
-- Made a game entirely written in Javascript and HTML in a group.
-- Got taught how to learn a new programming language quickly (Ruby).
 
 ### The Melbourn Community Hub App: July 2019 - March 2020
 
@@ -62,7 +51,7 @@ My achievements:
 - Learnt about SQL injections, cookies, command injection
 - Used browser developer functionality to edit HTML to complete certain challenges
 
-### Cleaning Manager: November 2017 - Present 2020 (Part time job)
+### Cleaning Manager: November 2017 - March 2020 (Part time job)
 
 The Melbourn Community Hub - [https://melbournhub.co.uk/](https://melbournhub.co.uk/)
 
@@ -115,7 +104,23 @@ Responsibilities:
 - Worked in kitchen doing various roles
 - Became part of a small team
 
+## Skills / Languages 
+- British Sign Language | Certified
+- Communication
+- Organization
+- Team Work
+
 ## Education
+
+### Makers Academy Coding Bootcamp - September 2020 - December 2020
+
+London, United Kingdom
+
+- Completed a 12 week coding bootcamp.
+- Did peer programming, group projects and test driven development.
+- Created an API using NodeJS.
+- Made a game entirely written in Javascript and HTML in a group.
+- Got taught how to learn a new programming language quickly (Ruby).
 
 ### A-Levels
 
