@@ -66,19 +66,6 @@ Responsibilities:
 - Ordering and stock maintenance for equipment and consumables
 - Developed time management, organisational, and people management skills
 
-### Work Experience: 2 weeks in July 2017
-
-C4B Media - [https://www.c4bmedia.com/](https://www.c4bmedia.com/)
-
-Royston, Hertfordshire
-
-Responsibilities:
-
-- Learnt how to work in a professional environment, working to deadlines, and creating social media posts for professional businesses looking to increase their presence on Twitter and Facebook.
-- Took notes at business meetings
-- Completed photoshoots for a brand deal. The company was sent tea bags by a partner. I took photos of the tea bags, and the employee posing with them.
-- Managed various social media accounts across Twitter and Facebook for several companies
-
 ### Bronze Duke Of Edinburgh’s Award: March 2016 - September 2017
 
 Duke Of Edinburgh - [https://www.dofe.org/](https://www.dofe.org/)
