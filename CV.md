@@ -1,6 +1,6 @@
 # Alexis Baker
 
-alexisbakercodes@gmail.com | 07548809449 | 688 Newmarket Road, Cambridge, Cambridgeshire. CB5 8RS
+alexisbakercodes@gmail.com | 07548809449 | Cambridge, Cambridgeshire.
 
 [https://alexisbaker.uk/](https://alexisbaker.uk/)
 
